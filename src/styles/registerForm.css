@@ -1,0 +1,809 @@
+form.register-form {
+    margin: 1px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #949191;
+    box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 18px;
+    margin-bottom: 20px;
+}
+
+.register-form-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    padding-top: 63px;
+    color: #084595;
+}
+
+.register-form label {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+    padding-top: 11px;
+    padding-bottom: 14px;
+}
+
+form.register-form input {
+    background: rgba(255, 255, 255, 0.61);
+    border: 1px solid #C1C0C0;
+    border-radius: 5px;
+}
+
+.register-form select#country-code {
+    width: 85px;
+    height: 46px;
+    background: rgba(255, 255, 255, 0.61);
+    border: 1px solid #C1C0C0;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.register-form select option {
+    text-align: center;
+}
+
+.register-form .form-check-label {
+    padding: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.register-form center.check-box {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.register-form .form-check-input:checked {
+    background-color: #000000;
+    border-color: #ffffff;
+}
+
+.form-check-input:checked[type=checkbox] {
+    background-image: url("../assets/register-tic.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.register-form .submit,
+.register-address-form .submit,
+.register-agreement-text-section .submit,
+.register-kyc-form .submit {
+    width: 111px;
+    height: 34px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background: #084595;
+    border-radius: 10px;
+}
+
+.register-form .cancel,
+.register-address-form .cancel,
+.register-agreement-text-section .cancel,
+.register-kyc-form .cancel {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    background: #FFFEFE;
+    border: none;
+    border-radius: 10px;
+    color: #3D3C3C;
+}
+
+.register-form-right h1.register-form-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #084595;
+}
+
+.register-form .login-button {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+    padding-top: 7px;
+}
+
+.register-form-right .login-button p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #084595;
+}
+
+.register-form-right .login-button p span a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+    text-decoration: none;
+}
+
+.register-form-right {
+    margin-left: 37px;
+}
+
+.register-form-right .signup-others {
+    margin-top: 41px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+}
+
+
+.register-form-right .register-or-line {
+    display: inline-block;
+    vertical-align: middle;
+    width: 36%;
+    margin: 0px 10px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.line span {
+    margin-right: 10px;
+}
+
+.register-form-right span {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+}
+
+.register-form-right span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+}
+
+.register-form-right .other-login-section {
+    margin-top: 7px;
+}
+
+.other-login-section button {
+    width: 127px;
+    height: 46px;
+    margin: 12px;
+
+    border: 1px solid #8A8888;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+
+}
+
+.apple-signup-button {
+    width: 20%;
+    margin: 12px;
+    background-image: url("../assets/apple-login-button.png");
+    border: 1px solid #8A8888;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    height: 53px !important;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.google-signup-button {
+    width: 20%;
+    margin: 12px;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAmCAYAAAAoTt69AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAlkSURBVHgB7Vt9bFPXFf+9ZzuOY4ckEEEaheKMwiilnTehbX9QCGs3iXVjXVuNTSoiVQusqzTYhwqoHU2kdmObWMhQN1Wb1iAEpZrWgYq2detKSFk7NCZIqgrWwTClHS0fSZyQOH6O7d7f873Js/PsJHabWlZ+0pXfuffc8+67556Pd++z1t3dnYBARUUFdF1Hf38/hoeHUVZWBrfbjXA4jKGhIZSUlMDr9SIajeL69esmL/sQPT09KAQZmgCKDDqmUdDQEgK8CIVCiMfjKC8vh9PpxMDAAAzDQGlpKTweDyKRCAYHB8028pCXfYiqqioUgoyZM2dOW9A0phZab2+vaUH06/TnXLFclVyxLpfLXLFcwVyxXMH0/YwF5GUfgvGiEGQ4HI6isyAnJ4Hgg7IQ1rp0mmW89o9LRjFCE6vStCCuTj4wsyQ+MDMoFq5YFraRh23kIbiCCa7yQpAxY8aM4rMgug+CgZcPT/fBieAkqIlRLsZKk5c0kS6jpK8H0WNHED37FoaD/4MxFIFW6gbKfEBtLVy3LoVj5R2AuzSjjFzGUYzQxLuEaUF8YEI9rNWNsKTTdn0SwXMwfvdrxN44xcrsN55dA9fyO+D+5lpoXt+IjHzGIayw6CxI+zBeVEPdV5E49AcM/34vEsJaJgN9Ti28jz6OsP8m5DuOYnxR1YRLSSAPaFEDgzuaEPvnMeQKfZ4fZS2/ES7PjXwglFl870H09Sz09Vyh9Ouk6T5U8CXNlUqaq5o0VzX7hFt/kp9y5ghX9/iP4amszHkcpBVPscHJoGteSD9O1xGLxVKyJPKozErRJv50CMNH/m4rWKuoROlX7gbmL4S+aBHioX7EL55H4sS/YLzykhmjqBxf088wXFOLfMah6GJE7jHo6hUYj6yzTQacd30N2gPfhsdbbivDePci+n/aDPfGTfDdcqvZZ3qz1B5OtWKtWVJ6JkVavZOQx0xxI08Diy/D6JqZItB9/4NwrFk7kmHZyUhUz0bJUy3QJK3acxkH6ZMnT6Kzs5MsDaIEZSkkHEFyTA9gkshps9Tr0RDrqBOdBxF+dQ6GOmpMYfrSz8P52JPmCp+KzdKdO3eitbUVYrsq/bna5WQEURg4j+RYVmKS0NPfL+j3s22xEIme103lEJ7b38eMB9+CXmnAtfG7Zt1EZJBWMcbuPWc8GRs2bEBzczOWLFmCw4cPo6uri02fRlIxflH+iCKAU61gq+/nCqXvpyXQ95OHvp889P3G/1+DyyLEUROGb4vY1Kyfbyvj4tUInnkxDF0TE60nA3o8FjZ/dUc67UTgRh1fXGRkHEdLSwsOHDiALVu2YNu2bSMxSOCULAdFqbR53gZRPiXbaHaHYG9lbF9nkbFnEnyQdZn6pI9nhbwOWvqPwIkcoEe7x9QN++5MUZoVobCGf5xl/La+cql4nhhDhwbiQkHIiD179mDZsmWmgjKgVxYrmkR5QtZTiQFRdonSLNsUNks+IoikNTbZ8DWK0mLhU/fg4hDpq+lmg7AHFUoLb5Bj6ZXX7L/S2k+n72fhqmcmRT9PmoFYZVak6fNJM5Ny6gNj7ljqnZtRhhExMBm8F4pnHMfp06cRDAaxevVqk2asYrviyYBGJCe9iWLkJPB3l6xvkHx+JCedk1yPpMuswqhyN1v4nkVyIhUfy90WWdnQJPkaZL+VUg6k3BHktE+fsDG8BCanhGxwOTNny1aXnAWcKOuDbkJyMpvT+Ej3ynZCWdj3kGqB5Gu38Knfr6fx0WXuwvigC2wT5ailLijv2yDKPFU5EoPsDspU1kQeWpCKQZHELKRvyhhX/gxv3XdsZZT0M02e+I5zbVXCjDl246ipSWaMFy5cMGnre5AFjDONGE1rA3JC0mF1d4Qfoy4nHaxvkNd0UUHYu7CjyA6/7J/N2shzgRc5HdglSj+ZIu1SrAw73o1iR8BAuV42pk9dVRy//JbYBRBq9XldCA+JjC02gOiwE387o+GlNxwp8uqraaGG7Tj8fj8CgQD27duH9evXm25uAgd2veO0By18/gw8foscxVeJsbIz9U8fC91oWwaeTnWh+3w+sHDFMoYwSyLNyVDH0KRpQaT5TuKpu2tE0juJOXi4bzmORyrwTNfztjLczgQW1fmwqNaB2Z4h1M8axs115bjN70Hn22PdZX21kXUcGzduNC1o+/btZpbHdsWTAW1Irlh/Wj3pBiTdF6GsqcGGLyAnlTgkfxmvrNkieZ5AdvTK+5GXijhqKYoeUbrOTUkWdXIpzvUzHsipN3iHe5YInavw3NBC3Hfts3gvlmw/cPYwXn//zQnJIP388YRICMZupt9UncgqY82aNdi6dSv27t2LBQsWYPfu3Whvb2dTo5y0zUhd2a2S5hs9/X8DkoH6JFLT21ZJM8PaJPk2yX6EimHtsn+jlHFE/ip544FyApJ/neU+pFMUnPOB3dt9/8HajqfG3LnCVYWHb7kXX567gntjtjK4efHiqQR+9cpY5dy+UMNjX9UnNI62tjbs378fx46l7KZTEW0YnWwFv3z4RgvfQTlZdny0OGUd7bDfmfDLia20yGPWp1JoFY/sdhLY91mMWquKhyn3yevA7un/7scL516GHVbVLcOXblyBpTWLocWS3w0MIoo3Q+dw8Pxf8e9zHpRevV+0pQb45x7xoKZCm/RmKVPv+vp6P2RwHQfzJsEXgn0Mq8xQz0lvRFJR48W+cceT14Fdn3EdD3X8CJcGr2Tk8TrLUFNWDSNm4HK4F5H46LmNHq2G59Kj4vcGk35ohQv3fCb37wum8MCOyqE7akfSPSpF0OpofW3IYWPUDnl/WXol0oMfnPg5Lg1cRi7Q4l64r30DK+bciSfvc6Ovry+ncRBT/GVpI5LuLWCpU+5VvV/lDU24DVNB+XwsMhgbwg9f+4VwX2eQC+79xCp8/7a1yHccIsubSgUp0Jr43hVEZneYM7QP898NHddO4LdnXpiwNc0vn4vGxfdglX/59IFdBmjCpZgKovsgrMfKTHU5Edbv0HgMoD4cdMuPPDh5Sgb7/uXiq3j5neM4GwqKuHNt5GYu3Ynq0kosqboZy2oD+MINnxtJna0ych2HqC8+BX2U/24g/5ARRcwZS34EghJTEZzw6X83TAzO9O0UdYhmrct22GbXrtqoe37O7nF44Ha5TStQXmiiMiYzjmKENv0Pu8LG9P+DChzT/7ArcExbUIHjA/C22xvTeGp9AAAAAElFTkSuQmCC);
+    border: 1px solid #8A8888;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    height: 53px !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: -6px;
+    background-position-y: 0px;
+    background-size: contain;
+}
+.kep-login-facebook {
+    /* display: none !important; */
+}
+.facebook-signup-button {
+    width: 20%;
+    margin: 12px;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHEAAAAmCAYAAADz9XSfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVdSURBVHgB7VpPbxtFFP/NyuLPARWJKxL7DaA3mkpkqQQnJMKtgUPtAxIgpJAD4kTtoN6bHBBBQqp7odxI4QPUPVCJUwxfIGuJG4caIdGU1p7O87zxPk927XV3nUjV/KLJ7I7fzJud37w/szYQEBAQEBAQEPCMQKEmrH34w1sYjz5XSl8yt69Qm9baKFATLVrpzXs/fvoTAmpHAzXg4ub+jtaPrxqqIPeFUvbacGlao+cRsBJEqIgLm99/aaqrRJcjzYeqzd4D8lCJxKR544VI6a+1164L6oDVoJI7fXT84F2o6KU8Q9PmL4J6ONb4X0V0P36IgJWgEolaRa9S7Uh0EZHKWEfXG8fPfdM7aA0RsFJUjolKZ+5yapEmy4n+G7YDgaeDytmpZgo1/6PkxlSP7/3y1b8IOBUslTeube5fMF0uTRu0ftMM8J5W3mDGEo2r7ci+I0S//n7r4z8RUDuWskTjOi+af9fcvWY7VEzf5M5aY8PY4zV52G9g/JcRKSLxZVPemKOa3HIfp4/ElBumfHAG+mNT7piya8rePMGlSBxDBlHN50I940qlbbNrtdfzh96AXawidE1p4WwQm3IOZ4MYdoPPxVIkzmZByr5WU2yHRSzppQ77XyB/xw8QUIilLVEJBzp9Q0NedNYI7as2pWFtVZUNvkTg3QUyiSnrfE1u9rYpaY4c7eAryHbyzRy5xJTXWSZl3Xlj+XpTHq+MXNGYidA97zl8xLDPlbo5LJedjhoHqjH6290aR/qOYeujCZlaZ66TCFVRExwPicCRHi8ipwyOYB8i5UJxlGIGxawDIUcWfR12cVLu0zFlh2tw3RZjxdyeF/9INmG5IeultreRLTyR8bOQS8W1P6bT7WK9e44mijcHkMVJsO7qMNnqZ2uXv9Nrl/e1eQk+KXRv6gdYDk3YU8p6CblY3NM1EXuYMxaRKONJm9ukTFt8TrJdU+6LfgnL3ffmFrPeIyG7y7JXPLlDb8xmju6YdWvW6dqknNQZi741HPYpJs74ykpvu8majrxyR3zexazLSbmPzGydq9mG3ekOO9zmZPrc5kCyZMHODUtQ+11PLyVaMeumPls8v5s5cnJMIqXn6U5ZxzBHN1iH26jS+ieo5asoB0p0bI2nBRGSem2SCHqYNmZJ87O3GIuPAzH3Oyr43B8zzZFxbeviupcjR3NxLtjp7ubISdcvsYFsc/WRM5daSLTkqemRooItdlGc2MSwVkkP4nYtoclFYmFajmz352FQYjzXNlwg59qHQr7M/ByI/K4pf8CGgw6yuD5BLSROyNMZfbqCKc6Bc1vkEqWlNT25LuxDxpjdtTHXKcsQgQOc3NlywaWO217bFtcuq+wjS0xkf7dRelw7uT3M6k5gn7Hp6SHv1OLr12A9UR8ikavNnbrjhppwWSkuFiHlmhaPFoAWqomTD73HbWS1HViiKJV31nvek9mF3eUxsnjkZ34J7MsIIohIfp/774p5bfN4h8hir3P/XWSboMUycn4JP1eKk9mp3LA7Yi5T11o5sZHQ9ncYqwJNmhYggV0EimcUjzqeHBFFJPRgF88RlcKm+r5Mh2XcG6PtHN3UL2Y5OkZswG4KKdvjMYcsQ2WLx28JuRR2I6Vifls8x/OYjyHPZcj9Jm650pLTEcMM8K092FPL1KUe/3brkxexOuTFoyKQCxqUkPmnxHik91yJ8crKlZ3fXNTjTt2LG36Jqlb/o5oy5DkMapJxesvoLiu3jO5C1HrEOAXyAnJQa0wMOBvUQKJ7yb2SY0VACVQmUWvFPw7Ovjtc0TkxoAD1WKJyv/IGZzchNgYEBAQEBAQEBDwFngDj4q9tdHg6pQAAAABJRU5ErkJggg==);
+    border: 1px solid #8A8888;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    height: 53px !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: 4px;
+    background-position-y: 6px;
+    background-size: auto;
+}
+
+.register-form-right .physical-digtale img {
+    width: 161px;
+    height: 133px;
+    margin-top: 36px;
+}
+
+.register-email-verification {
+    margin-top: 100px;
+    margin-bottom: 35px;
+}
+
+.register-email-verification .progress {
+    border-radius: 20px;
+    height: 31px;
+    background: #CDCBCB;
+    width: 60%;
+}
+
+.register-email-verification .progress .progress-bar {
+    background: #084595;
+    border-radius: 20px;
+    transition-delay: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.email-verification-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #084595;
+    margin-top: 30px;
+}
+
+.register-email-verification-otp-section .submit {
+    width: 108px;
+    height: 29px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background: #084595;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+.register-email-verification-otp-section .cancel {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    background: #FFFEFE;
+    border: none;
+    border-radius: 18px;
+    color: #3D3C3C;
+}
+
+.register-email-verification-otp-section input,
+.register-email-verification-otp-section {
+    margin-bottom: 35px;
+}
+
+.register-email-verification-otp-section input {
+    width: 250px;
+    height: 46px;
+    background: #D9D9D9;
+    border: none;
+    padding: 11px;
+}
+
+.register-email-verification-otp-section p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+    margin-bottom: 35px;
+}
+
+.resend-sectoin p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #737272;
+    margin-top: 30px;
+}
+
+.resend-sectoin p span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #084595;
+    cursor: pointer;
+}
+
+.resend-sectoin {
+    margin-bottom: 100px;
+}
+
+.select-user-section img {
+    width: 130px;
+    height: 70px;
+}
+
+.select-user-section .buyer-content h1,
+.select-user-section .artist-content h1,
+.select-user-section .collector-content h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+    text-align: left;
+}
+
+.select-user-section .buyer-content p,
+.select-user-section .artist-content p,
+.select-user-section .collector-content p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+    text-align: left;
+}
+
+.select-user-section button {
+    width: 108px;
+    height: 29px;
+    background: #084595;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.select-user-section .collector img {
+    width: 127px;
+    height: 82px;
+}
+
+.select-user-section .buyer,
+.select-user-section .artist,
+.select-user-section .collector {
+    align-items: center;
+    width: fit-content;
+}
+
+.register-select-user {
+    margin-top: 100px;
+}
+
+.register-select-user .progress,
+.register-address .progress,
+.register-agreement .progress,
+.register-kyc .progress {
+    border-radius: 20px;
+    height: 31px;
+    background: #CDCBCB;
+    width: 60%;
+}
+
+.register-select-user .progress .progress-bar,
+.register-address .progress .progress-bar,
+.register-agreement .progress .progress-bar,
+.register-kyc .progress .progress-bar {
+    background: #084595;
+    border-radius: 20px;
+    transition-delay: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.register-select-user-section .register-select-user-section-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #084595;
+    margin-top: 50px;
+}
+
+.select-user-section {
+    margin-top: 35px;
+}
+
+.select-user-section-line {
+    background: #A3A3A3;
+    height: 3px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 28px;
+}
+
+.select-user-section .collector img {
+    padding: 5px 7px 0px 5px;
+}
+
+.register-select-user-section .submit {
+    width: 111px;
+    height: 34px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background: #084595;
+    border-radius: 10px;
+}
+
+.register-select-user-section .cancel {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    background: #FFFEFE;
+    border: none;
+    border-radius: 18px;
+    color: #3D3C3C;
+}
+
+.register-select-user-section {
+    margin-bottom: 100px;
+}
+
+.select-user-section button:hover,
+.select-user-section button::after {
+    background: #F40596;
+    border-radius: 10px;
+}
+
+.select-user-section button.active {
+    background: #F40596;
+}
+
+.register-address-title {
+    margin-top: 40px;
+}
+
+.register-address {
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.register-address-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #084595;
+}
+
+.register-address-form {
+    background: #FFFEFE;
+    border: 1px solid #949191;
+    box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 18px;
+    padding: 28px;
+    margin-bottom: 100px;
+}
+
+.register-address-form label {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.register-address-form input {
+    margin-bottom: 10px;
+    height: 46px;
+}
+
+.register-address-form-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+}
+
+.register-address-form label {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #084595;
+}
+
+.register-address-form select {
+    display: block;
+
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .375rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-right: 20px;
+    width: 71px;
+    height: 46px;
+}
+
+.register-agreement {
+    margin-top: 100px;
+    margin-bottom: 13px;
+}
+
+.register-agreement .progress {
+    margin-bottom: 15px;
+}
+
+.register-agreement-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #084595;
+}
+
+.agreement-text {
+    text-align: left;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 55px;
+    padding: 40px;
+}
+
+.agreement-text {
+    text-align: left;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 55px;
+    padding: 40px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    overflow-y: scroll;
+    height: 500px;
+    padding: 10px 70px;
+}
+
+.agreement-text h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.agreement-text p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.register-agreement-text-section {
+    margin-bottom: 100px;
+}
+
+.register-kyc .register-kyc-title {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.register-kyc {
+    margin-top: 100px;
+}
+
+.register-kyc-form {
+    text-align: left;
+}
+
+.register-kyc-form p {
+    text-indent: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+    color: #084595;
+    margin-top: 32px;
+}
+
+.file-upload {
+    position: relative;
+    opacity: 0;
+    z-index: -1;
+}
+
+.custom-file-upload {
+    width: 196px;
+    height: 138px;
+    background: #084595;
+    border-radius: 22px;
+    background-image: url("../assets/file-upload.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+form.register-kyc-form label {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+    color: #084595;
+    margin-bottom: 19px;
+}
+
+.kyc-input-fields {
+    margin-top: 51px;
+}
+
+.register-kyc-section #file-input , #file-input-address{
+    display: none;
+}
+
+.register-kyc-form {
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.register-complete-icon-section {
+    width: 45px;
+    height: 45px;
+    background: #04B500;
+    background-image: url("../assets/register-complete.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 30px;
+}
+
+.register-complete {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.register-complete .submit {
+    width: 51px;
+    height: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    background: #084595;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 0px;
+}
+
+.register-complete p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #084595;
+}
+
+select#country-code {
+    margin-bottom: 10px;
+}
+
+@media (max-width :768px) {
+    .register-form-right {
+        margin-left: 0px;
+    }
+
+    .select-user-section .buyer-content p,
+    .select-user-section .artist-content p,
+    .select-user-section .collector-content p {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 22px;
+        color: #084595;
+        text-align: left;
+    }
+}
+
+.artWork-file-input {
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 101px;
+    height: 85px;
+    background-size: cover;
+}
+
+input#file-input-ArtWork {
+    display: none;
+}
+
+button.password-eye {
+    float: right;
+    margin-top: -32px;
+    margin-right: 5px;
+    border: none;
+    color: #b7b5b5;
+}
+h2.register-form-title {
+    padding-top: 10px !important;
+}
+.ml-0 { 
+    margin-left: 0;
+}

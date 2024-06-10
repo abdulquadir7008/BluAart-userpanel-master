@@ -1,0 +1,55 @@
+.collectionOne {
+
+    height: 540px;
+    background-repeat: no-repeat;
+    width: 100%;
+
+
+
+
+}
+
+.collectionTwo {
+
+    height: 540px;
+    background-repeat: no-repeat;
+    margin-top: -100px;
+    width: 100%;
+
+}
+
+.collectionThree {
+
+    height: 540px;
+    width: 100%;
+    background-repeat: no-repeat;
+
+
+
+}
+
+button.corporate-collection-title {
+    width: 322px;
+    height: 68px;   
+    background: #2DDB94;
+    border-radius: 48px;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.art-type {
+    width: 250px;
+    margin: auto;
+}
+
+.dimmed {
+    color: rgba(182, 170, 170, 0.3); /* Dimmed border color */
+    /* color: rgba(0, 0, 0, 0.5); */
+  }

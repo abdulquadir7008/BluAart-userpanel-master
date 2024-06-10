@@ -1,0 +1,1144 @@
+.ArtOne {
+
+    background: #BBDF3A;
+    border: none;
+    border-radius: 48px;
+    width: 286.88px;
+    height: 67.56px;
+    color: #ffffff;
+    font-weight: 800;
+
+}
+
+.paymentPrice {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.artArtistName {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 10%;
+    color: #E331B1;
+}
+
+.artArtistNameTwo {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 80%;
+    /* identical to box height, or 188% */
+
+
+    color: #084595;
+}
+
+.artArtistNameThree {
+
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 10%;
+    text-transform: uppercase;
+    /* identical to box height, or 250% */
+
+
+    color: #7A2DDB;
+
+}
+
+.bottomNav {
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.packing {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+
+    /* or 140% */
+
+    color: #084595;
+}
+
+.packingText {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #484848;
+}
+
+.bottom-details .packing {
+    margin-bottom: 5px;
+}
+
+.artArtistNameFour {
+
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+
+    text-transform: uppercase;
+    line-height: 100%;
+    /* identical to box height, or 167% */
+
+
+    color: #E331B1;
+
+}
+
+.sampleImage {
+    margin: 10px 0;
+}
+
+
+.artArtistNameFive {
+    font-family: 'Chopsin';
+    font-style: normal;
+    line-height: 100%;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+
+    /* or 250% */
+
+
+    color: #083E86;
+}
+
+.artArtistNameSix {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    text-transform: uppercase;
+    /* identical to box height, or 100% */
+
+    display: flex;
+    align-items: center;
+
+    color: #084595;
+}
+
+.artArtistNameSeven {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 100%;
+    /* identical to box height, or 100% */
+
+    display: flex;
+    align-items: center;
+
+    color: #084595;
+}
+
+.secondText {
+    margin-top: 30px;
+}
+
+.box_Art {
+
+    border: 1px solid #878787;
+
+
+}
+
+.box_Art .one {
+
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-evenly;
+
+}
+
+
+.box_Art .one .oneBtn {
+    background: #3DCEE8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    padding: 4px 7px;
+}
+
+.btnOffer {
+
+    background: #7A2DDB;
+    border-radius: 2px;
+    border: none;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.modalOffer {
+
+    background: #7A2DDB;
+    border-radius: 2px;
+    border: none;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    height: 44px;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.paymentArt {
+
+    background: #D9D9D9;
+    width: 100%;
+    height: 50vh;
+
+}
+
+.continue {
+    background: #7A2DDB;
+    width: 341px;
+    height: 35px;
+
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 250% */
+
+
+    color: #FFFFFF;
+
+}
+
+.btn-close {
+    display: none;
+}
+
+.one .cartOffer {
+
+    border: 1px solid #084595;
+    border-radius: 2px;
+
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #084595;
+
+
+}
+
+.box_Art_text {
+    margin: 0 20px;
+    color: #084595;
+
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.box_artPara {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    padding: 10px;
+    /* or 140% */
+
+    display: flex;
+    align-items: center;
+
+    color: #084595;
+}
+
+.ShippingDetails {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10px 0;
+    text-transform: uppercase;
+    /* identical to box height, or 250% */
+
+
+    color: #E331B1;
+
+}
+
+.box_Art_textTwo {
+    font-size: 25px;
+    color: #084595;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.lineThree {
+    height: 1px;
+    background: #E331B1;
+
+}
+
+.shippingPara {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    margin: 10px 0;
+    line-height: 14px;
+    /* or 140% */
+
+
+    color: #084595;
+}
+
+.packageDetails {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 30px;
+    /* identical to box height, or 250% */
+
+
+    color: #7A2DDB;
+
+}
+
+.modalTwo {
+
+    width: 300px;
+    height: 45px;
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+
+}
+
+.modalTwo p {
+    margin: 15px 0;
+}
+
+.modalTextArea {
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 340px;
+    height: 145px;
+    border: none;
+
+}
+
+.modalThree {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px auto;
+    width: 100%;
+
+}
+
+.modalFour {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.modalFour button {
+    width: 341px;
+    height: 35px;
+    background: #7A2DDB;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 250% */
+
+
+    color: #FFFFFF;
+}
+
+
+.modalUSD {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 5%;
+    /* identical to box height, or 250% */
+
+
+    color: #000000;
+
+}
+
+.enterPrice {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    /* identical to box height, or 300% */
+
+
+    color: #484848;
+
+}
+
+.bell {
+    margin: 10px 0;
+}
+
+.shippingOptionOne {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 5%;
+    /* or 83% */
+
+
+    color: #000000;
+}
+
+.shippingOptionTwo {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 5%;
+    /* or 83% */
+
+
+    color: #000000;
+
+}
+
+.shippingOptionThree {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 100%;
+    /* or 125% */
+
+
+    color: #000000;
+}
+
+.shippingOptionFour {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1%;
+    /* or 125% */
+
+
+    color: #000000;
+}
+
+.shippingOption {
+    margin: 15px 10px;
+}
+
+.saveAnd {
+    width: 341px;
+    height: 35px;
+    background: #7A2DDB;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0 10px;
+    line-height: 30px;
+    /* identical to box height, or 250% */
+
+
+    color: #FFFFFF;
+}
+
+.creditBilling {
+    margin: 20px 20px;
+}
+
+.qrCode {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    margin: 20px 120px;
+    font-size: 22px;
+}
+
+.paraEthers {
+    width: 50%;
+    margin: 15px;
+
+}
+
+.submisstion {
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+
+    color: #000000;
+}
+
+.submit {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    width: 40%;
+    color: #484848;
+}
+
+.loading {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.filterData {
+    margin: 20px 20px;
+}
+
+.filterContent {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 94%;
+    color: #000000;
+}
+
+.accordion {
+    margin: 20px 0;
+    width: 100%;
+}
+
+.filterBorder {
+    border: 1px solid #084595;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 17px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    color: #084595;
+}
+
+.moment {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    margin: 30px 0;
+    line-height: 27px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.paraEthers p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+}
+
+.creditBilling p {
+    margin: 5px 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.creditBilling i {
+    margin: 10px 0;
+}
+
+.saveShipping {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+
+
+
+.purchaseBtn {
+    color: #FFFFFF;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    background: #3DCEE8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    height: 34px;
+    border: none;
+    margin: 5px 7px;
+    padding: 0px 4px;
+}
+
+.purchaseDetails {
+    text-transform: uppercase;
+    width: 100%;
+    margin: 50px 0;
+
+}
+
+.purchaseDetails ul li {
+
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    /* identical to box height */
+
+
+    color: #084595;
+
+}
+
+.paymentSelect {
+    width: 50%;
+    margin-left: 20px;
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.paymentSelect i {
+    color: #084595;
+}
+
+.purchaseArtBtn {
+    background: #7A2DDB;
+    width: 341px;
+    height: 35px;
+    border: none;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin: auto;
+    /* identical to box height, or 250% */
+
+
+    color: #FFFFFF;
+}
+
+.purchaseTextTwo {
+    color: #2DDB94
+}
+
+.purchaseText {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 10%;
+
+    color: #000000;
+}
+
+
+.paymentArtDetails {
+
+    margin: 30px 0;
+}
+
+.purchaseDetails ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.alertOne {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 5%;
+
+    color: #000000;
+}
+
+.alertTwo {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 5%;
+
+    color: #000000;
+
+}
+
+.purchaseAlert {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.purchaseAlert i {
+    margin: 0 10px;
+}
+
+.disclaimer {
+    margin: 30px 0;
+}
+
+.labes {
+    line-height: 5%;
+}
+
+.purchaseTextThree {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 180% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.purchaseList {
+    line-height: 40%;
+}
+
+.purchaseAmountDetails {
+    margin: 30px 0;
+}
+
+.totalValue {
+    font-weight: 800;
+}
+
+.paymentArtBtn {
+    background: #D9D9D9;
+    width: 313px;
+    height: 37px;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.paymentArtBtn i {
+    margin: 0 30px;
+}
+
+.paymentArtBtn p {
+    margin: 10px;
+}
+
+
+
+.modalPriceBtn {
+    color: #FFFFFF;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    background: #3DCEE8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    width: 85px;
+    height: 25px;
+    border: none;
+}
+
+
+
+.modalPrice {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 5%;
+    /* identical to box height, or 300% */
+
+
+    color: #084595;
+
+}
+
+.artistNetworkName {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+
+    text-transform: uppercase;
+    line-height: 100%;
+    /* identical to box height, or 167% */
+
+
+    color: #E331B1;
+}
+
+.lineThree {
+    background: #7A2DDB;
+    height: 1px;
+}
+
+.lineTwo {
+    height: 1px;
+    background: #696969;
+}
+
+.ArtIcon {
+    margin: 50px 0;
+}
+
+.artworkInformation {
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+    color: #BBDF3A;
+}
+
+.artHeading {
+    text-transform: uppercase;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 12px;
+    /* or 120% */
+
+
+    color: #084595;
+}
+
+
+
+.lineFour {
+
+    height: 1px;
+    background: #BBDF3A;
+    margin-bottom: 10px;
+
+}
+
+.artDescription {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16;
+    line-height: 100%;
+    color: #484848;
+    word-wrap: break-word;
+}
+
+.box_Art.mintOnly {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.artProfile {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+.historyDetails span {
+    font-weight: 800;
+    padding-right: 10px;
+}
+
+.artName {
+    font-weight: 800;
+    margin-top: -2px;
+}
+
+.historyDetails {
+    margin-top: 13px;
+    padding: 3px 15px;
+}
+
+.history {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.historyDetails p {
+    line-height: 10%;
+}
+
+/* Slider Modal */
+
+.sliderNav {
+    position: absolute;
+    width: 1296px;
+    height: 238.5px;
+    right: 0;
+    top: 123px;
+    background: #FFFFFF;
+    border: 1.5px solid #FFFFFF;
+    border-radius: 0px 0px 10px 10px;
+    z-index: 1;
+}
+
+.SliderHead {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    margin: 0;
+    text-align: center;
+    color: #084595 !important;
+}
+
+.sliderName {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #084595;
+    width: 100%;
+    /* text-align: center; */
+    letter-spacing: -1px;
+}
+
+.sliderBorder {
+    border: 3px solid #084595;
+    width: 1220px;
+    height: 220.5px;
+    margin: auto;
+    border-radius: 10px;
+
+}
+
+.bottomNav li {
+    margin: 0px 10px;
+    cursor: pointer;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.bottomNav li.active {
+    color: #084595;
+    font-size: 16px;
+    font-style: Chopsin;
+    font-family: 'Chopsin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.section-art img {
+    width: 100%;
+}
+
+.box_Art.sell {
+    height: auto;
+    padding: 10px;
+}
+
+form.sell-form .inputwithCurrency {
+    align-items: center;
+    display: flex;
+}
+
+input.offer-price {
+    border: none;
+    background-color: #d9d9d900;
+    width: 50%;
+    text-align-last: end;
+}
+
+button.btnOffer:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+ul.step-section {
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul.step-section i {
+    margin-right: 10px;
+}
+
+.uniqueOrmultiple {
+    display: flex;
+}
+
+.dimensions {
+    display: flex;
+    float: right;
+}
+
+.size-input {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul.step-section li.active {
+    color: green;
+}
+
+@media (max-width: 768px) {
+
+    .paymentArt {
+        height: 100vh;
+        margin: 0;
+    }
+
+    .modalImage {
+        margin: 0;
+    }
+
+    .artProfile {
+        margin: 20px 0;
+        width: 100%;
+    }
+
+    .purchaseText {
+        margin: 0;
+        line-height: 100%;
+    }
+
+    .purchaseList {
+        line-height: 100%;
+    }
+
+    .shippingOptionTwo {
+        line-height: 100%;
+    }
+
+}
+
+.image-container.image-container-artistTwo {
+    margin-top: -60px;
+    height: 540px; 
+}
+
+
+/* img.artistTwo {
+    animation-delay: 0.50s;
+}
+
+img.artistThree {
+    animation-delay: 1s;
+} */
+.sliderBorder .row { 
+    align-items: center;
+}
+
+select.oneBtn-offer {
+    background: #3DCEE8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    padding: 4px 7px;
+}
